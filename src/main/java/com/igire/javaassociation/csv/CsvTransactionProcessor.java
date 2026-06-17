@@ -1,11 +1,5 @@
 package com.igire.javaassociation.csv;
 
-import java.util.List;
-
-public class CsvTransactionProcessor {
-}
-package com.igire.javaassociation.csv;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
